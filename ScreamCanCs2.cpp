@@ -36,7 +36,7 @@
 
  // --- GLOBAL AYARLAR VE SABITLER ---
 const char* SCREAMCAN_VERSION = "SCREAMCAN v4.5.0 (2027)";
-const char* CONTACT_LINK = "discord.gg/0077";
+const char* CONTACT_LINK = 
 const DWORD CS2_PID = 0;
 HMODULE hCS2Module = NULL;
 HMODULE hD3D9 = NULL;
