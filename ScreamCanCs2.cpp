@@ -4,7 +4,7 @@
  * =========================================================================
  * Version: 4.5.0 (Kernel Bypass)
  * Status: UNDETECTED / BAN IMMUNE
- * Contact: discord.gg/0077
+ 
  * ==========================================================================
  * Description:
  * Tam kapsamlı, kernel seviyesinde çalışan, anti-cheat (VAC Live, Faceit Anti-Cheat)
